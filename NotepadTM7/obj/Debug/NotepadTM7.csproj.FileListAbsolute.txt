@@ -1,0 +1,28 @@
+D:\csharp\NotepadTM7\NotepadTM7\bin\Debug\NotepadTM7.exe.config
+D:\csharp\NotepadTM7\NotepadTM7\bin\Debug\NotepadTM7.exe
+D:\csharp\NotepadTM7\NotepadTM7\bin\Debug\NotepadTM7.pdb
+D:\csharp\NotepadTM7\NotepadTM7\obj\Debug\NotepadTM7.csprojResolveAssemblyReference.cache
+D:\csharp\NotepadTM7\NotepadTM7\obj\Debug\NotepadTM7.Notepad.resources
+D:\csharp\NotepadTM7\NotepadTM7\obj\Debug\NotepadTM7.Properties.Resources.resources
+D:\csharp\NotepadTM7\NotepadTM7\obj\Debug\NotepadTM7.csproj.GenerateResource.Cache
+D:\csharp\NotepadTM7\NotepadTM7\obj\Debug\NotepadTM7.exe
+D:\csharp\NotepadTM7\NotepadTM7\obj\Debug\NotepadTM7.pdb
+C:\Users\Mahesh Patil\Downloads\Compressed\NotepadTM7\NotepadTM7\bin\Debug\NotepadTM7.exe.config
+C:\Users\Mahesh Patil\Downloads\Compressed\NotepadTM7\NotepadTM7\obj\Debug\NotepadTM7.exe
+C:\Users\Mahesh Patil\Downloads\Compressed\NotepadTM7\NotepadTM7\obj\Debug\NotepadTM7.pdb
+C:\Users\Mahesh Patil\Downloads\Compressed\NotepadTM7\NotepadTM7\bin\Debug\NotepadTM7.exe
+C:\Users\Mahesh Patil\Downloads\Compressed\NotepadTM7\NotepadTM7\bin\Debug\NotepadTM7.pdb
+C:\Users\Mahesh Patil\Downloads\Compressed\NotepadTM7\NotepadTM7\obj\Debug\NotepadTM7.csprojResolveAssemblyReference.cache
+C:\Users\Mahesh Patil\Downloads\Compressed\NotepadTM7\NotepadTM7\obj\Debug\NotepadTM7.Notepad.resources
+C:\Users\Mahesh Patil\Downloads\Compressed\NotepadTM7\NotepadTM7\obj\Debug\NotepadTM7.Properties.Resources.resources
+C:\Users\Mahesh Patil\Downloads\Compressed\NotepadTM7\NotepadTM7\obj\Debug\NotepadTM7.csproj.GenerateResource.Cache
+C:\Users\MAHESH PATIL (BOB)\Documents\NotepadTM7\NotepadTM7\bin\Debug\NotepadTM7.exe.config
+C:\Users\MAHESH PATIL (BOB)\Documents\NotepadTM7\NotepadTM7\bin\Debug\NotepadTM7.exe
+C:\Users\MAHESH PATIL (BOB)\Documents\NotepadTM7\NotepadTM7\bin\Debug\NotepadTM7.pdb
+C:\Users\MAHESH PATIL (BOB)\Documents\NotepadTM7\NotepadTM7\obj\Debug\NotepadTM7.csprojAssemblyReference.cache
+C:\Users\MAHESH PATIL (BOB)\Documents\NotepadTM7\NotepadTM7\obj\Debug\NotepadTM7.Notepad.resources
+C:\Users\MAHESH PATIL (BOB)\Documents\NotepadTM7\NotepadTM7\obj\Debug\NotepadTM7.Properties.Resources.resources
+C:\Users\MAHESH PATIL (BOB)\Documents\NotepadTM7\NotepadTM7\obj\Debug\NotepadTM7.csproj.GenerateResource.cache
+C:\Users\MAHESH PATIL (BOB)\Documents\NotepadTM7\NotepadTM7\obj\Debug\NotepadTM7.csproj.CoreCompileInputs.cache
+C:\Users\MAHESH PATIL (BOB)\Documents\NotepadTM7\NotepadTM7\obj\Debug\NotepadTM7.exe
+C:\Users\MAHESH PATIL (BOB)\Documents\NotepadTM7\NotepadTM7\obj\Debug\NotepadTM7.pdb
