@@ -1,0 +1,9 @@
+G:\Applications_bob\Notepad\Notepad\NotepadTM7\bin\Release\NotepadTM7.exe.config
+G:\Applications_bob\Notepad\Notepad\NotepadTM7\bin\Release\NotepadTM7.exe
+G:\Applications_bob\Notepad\Notepad\NotepadTM7\bin\Release\NotepadTM7.pdb
+G:\Applications_bob\Notepad\Notepad\NotepadTM7\obj\Release\NotepadTM7.Notepad.resources
+G:\Applications_bob\Notepad\Notepad\NotepadTM7\obj\Release\NotepadTM7.Properties.Resources.resources
+G:\Applications_bob\Notepad\Notepad\NotepadTM7\obj\Release\NotepadTM7.csproj.GenerateResource.cache
+G:\Applications_bob\Notepad\Notepad\NotepadTM7\obj\Release\NotepadTM7.csproj.CoreCompileInputs.cache
+G:\Applications_bob\Notepad\Notepad\NotepadTM7\obj\Release\NotepadTM7.exe
+G:\Applications_bob\Notepad\Notepad\NotepadTM7\obj\Release\NotepadTM7.pdb
